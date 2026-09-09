@@ -1,0 +1,10 @@
+{
+  "name": "typeorm-entities",
+  "description": "Guía de buenas prácticas para diseñar y crear entidades TypeORM (decoradores, relaciones, índices, migraciones, naming, soft-delete, validación). Úsalo siempre que el usuario pida crear, revisar, refactorizar o diseñar entidades, modelos de datos, esquemas de base de datos, o archivos .entity.ts en un proyecto con TypeORM (NestJS, Express, etc.), aunque no use la palabra 'entidad' explícitamente — por ejemplo 'crea el modelo de Usuario', 'necesito la tabla de pedidos, 'define la relación entre Product y Category', 'cómo hago soft delete en TypeORM'",
+  "version": "1.0.0",
+  "tags": [
+    "typescript",
+    "typeorm",
+    "backend"
+  ]
+}

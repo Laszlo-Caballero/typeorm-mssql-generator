@@ -1,0 +1,28 @@
+{
+  "name": "typeorm-mssql-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/index.ts --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^26.1.1",
+    "@types/pg": "^8.23.1",
+    "@types/pluralize": "^0.0.33",
+    "tsx": "^4.23.1",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "@types/mssql": "^12.3.0",
+    "change-case": "^5.4.4",
+    "mssql": "^12.7.0",
+    "pg": "^8.23.0",
+    "pluralize": "^8.0.0",
+    "typeorm": "^1.1.0"
+  }
+}
